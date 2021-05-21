@@ -1,0 +1,9 @@
+INSERT INTO category (description) VALUES ('African');
+INSERT INTO category (description) VALUES ('Congolese');
+INSERT INTO category (description) VALUES ('Egypt');
+INSERT INTO category (description) VALUES ('Angola');
+INSERT INTO unit_of_measure (uom) VALUES ('TeaSpoon');
+INSERT INTO unit_of_measure (uom) VALUES ('TableSpoon');
+INSERT INTO unit_of_measure (uom) VALUES ('Cup');
+INSERT INTO unit_of_measure (uom) VALUES ('Pinch');
+INSERT INTO unit_of_measure (uom) VALUES ('Ounce');
